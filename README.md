@@ -84,7 +84,6 @@
       <td>Machine Learning Libraries/Tools</td>
       <td>
         <img src="https://img.shields.io/badge/-scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-        <img src="https://img.shields.io/badge/-joblib-1D3557?style=for-the-badge&logo=swagger&logoColor=white" alt="joblib">
       </td>
     </tr>
     <tr>
@@ -115,7 +114,6 @@
     <tr>
       <td>Misc</td>
       <td>
-        <img src="https://img.shields.io/badge/-arch_linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="arch">
         <img src="https://img.shields.io/badge/-Windows-1793D1?style=for-the-badge&logo=&logoColor=white" alt="windows">
       </td>
     </tr>
