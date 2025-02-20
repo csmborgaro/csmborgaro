@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Borgaro</h1>
-<h3 align="center">I'm an aspiring Data Engineer and I like making stuff.</h3>
+<h3 align="center">I'm an aspiring Data Analyst and I like making stuff.</h3>
 
 <!--### More About Me:-->
 
